@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\consolrAppExercise\bin\Debug\netcoreapp3.1\consolrAppExercise.exe
+C:\Users\hp\Desktop\consolrAppExercise\bin\Debug\netcoreapp3.1\consolrAppExercise.deps.json
+C:\Users\hp\Desktop\consolrAppExercise\bin\Debug\netcoreapp3.1\consolrAppExercise.runtimeconfig.json
+C:\Users\hp\Desktop\consolrAppExercise\bin\Debug\netcoreapp3.1\consolrAppExercise.runtimeconfig.dev.json
+C:\Users\hp\Desktop\consolrAppExercise\bin\Debug\netcoreapp3.1\consolrAppExercise.dll
+C:\Users\hp\Desktop\consolrAppExercise\bin\Debug\netcoreapp3.1\consolrAppExercise.pdb
+C:\Users\hp\Desktop\consolrAppExercise\obj\Debug\netcoreapp3.1\consolrAppExercise.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\consolrAppExercise\obj\Debug\netcoreapp3.1\consolrAppExercise.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\consolrAppExercise\obj\Debug\netcoreapp3.1\consolrAppExercise.AssemblyInfo.cs
+C:\Users\hp\Desktop\consolrAppExercise\obj\Debug\netcoreapp3.1\consolrAppExercise.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\consolrAppExercise\obj\Debug\netcoreapp3.1\consolrAppExercise.dll
+C:\Users\hp\Desktop\consolrAppExercise\obj\Debug\netcoreapp3.1\consolrAppExercise.pdb
+C:\Users\hp\Desktop\consolrAppExercise\obj\Debug\netcoreapp3.1\consolrAppExercise.genruntimeconfig.cache
