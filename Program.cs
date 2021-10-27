@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Linq;
+using System.Collections.Generic;
+using System.Collections;
 
 namespace consolrAppExercise
 {
@@ -123,24 +126,60 @@ namespace consolrAppExercise
             //  else
             //  Console.WriteLine("Vous etes mineur");
 
-             string []namess={"Ella","Bosco"};
-             Console.WriteLine(namess.GetType());
-             Console.WriteLine("La taille est de:" + namess.Length);
+        //      string []namess={"Ella","Bosco"};
+        //      Console.WriteLine(namess.GetType());
+        //      Console.WriteLine("La taille est de:" + namess.Length);
 
-             namess=new string[]{"Ella","Bosco","Wil"};
-             foreach(var namet in namess)
-             {
-                 Console.WriteLine(namet);
-             }
-             Array.Sort(namess);
-             Array.Sort(namess);
+        //      namess=new string[]{"Ella","Bosco","Wil"};
+        //      foreach(var namet in namess)
+        //      {
+        //          Console.WriteLine(namet);
+        //      }
+        //      Array.Sort(namess);
+        //      Array.Sort(namess);
             
 
-             Console.WriteLine("Ordonner un tableau");
-             foreach(var namet in namess)
-             {
-                  Console.WriteLine(namet);
-             }
+        //      Console.WriteLine("Ordonner un tableau");
+        //      foreach(var namet in namess)
+        //      {
+        //           Console.WriteLine(namet);
+        //      }
+        //      int [] entiers ={ 30, 2, 5};
+        //      Console.WriteLine("Min :" + entiers.Min());
+        //      Console.WriteLine("Max :" + entiers.Max());
+        //      Console.WriteLine("Sum :" + entiers.Sum()); 
+        //      //nullable
+        //      int ? varnull =null ;
+        //      double? d1null =3.4;
+        //      double? d2null =null;
+        //      bool? b = null;
+             
+        //     //  double pi=d1null ?? 3.14;
+        //      double pi2=d2null ?? 3.14;
+        //      double? pi;
+        //      if (d1null is double)
+        //      {
+        //          pi=d1null;
+        //      }
+        //      else{
+        //          pi=d1null;
+        //      }
+        //      Console.WriteLine($"pi={pi}");
+        //      Console.WriteLine($"pi={pi2}");
+        //      Console.WriteLine("{0};{1};{2}" ,varnull,d1null,b);
+        List<string> namess=new List<string>(){"Ella","Bosco"};
+        namess.Add("Pascal");
+        foreach(string nameh in namess)
+        {
+            Console.WriteLine(nameh);
         }
+        Console.WriteLine("---------------");
+        namess.Remove("Ella");
+        namess.RemoveAt(0);
+        foreach(string nameh in namess)
+        {
+            Console.WriteLine(nameh);
+        }
+         }
     }
 }
