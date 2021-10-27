@@ -127,7 +127,7 @@ namespace consolrAppExercise
              Console.WriteLine(namess.GetType());
              Console.WriteLine("La taille est de:" + namess.Length);
 
-             namess=new string[]{"Ella","Bosco"};
+             namess=new string[]{"Ella","Bosco","Wil"};
              foreach(var namet in namess)
              {
                  Console.WriteLine(namet);
